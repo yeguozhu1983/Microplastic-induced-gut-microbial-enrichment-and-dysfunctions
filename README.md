@@ -1,3 +1,3 @@
-Data for microplastic-induced gut microbial enrichment and dysfunctions.
+Data on microplastic-induced gut microbial enrichment and dysfunctions.
 We employed stool metagenomics to decipher microplastic-induced selective enrichment characteristics of gut microbiota. Concurrently, unique metabolic disorders in gut microbiota were investigated at the gene level. Subsequently, stool metabolomics was used to analyze and verify microplastic-induced distinctive metabolic disorders in gut microbiota, and to identify key metabolic pathways and potential intervention targets.
 Details on the methods and results could be found in the online DOI or iMetaOmics http://www.imeta.science/imetaomics/.
